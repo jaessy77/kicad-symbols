@@ -72,12 +72,6 @@ K connector
 F ~
 $ENDCMP
 #
-$CMP Conn_01x12_Shielded_Female
-D Generic shielded connector, single row, 01x12, female
-K connector
-F ~
-$ENDCMP
-#
 $CMP Conn_01x13_Shielded
 D Generic shielded connector, single row, 01x13, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
@@ -152,12 +146,6 @@ $ENDCMP
 #
 $CMP Conn_01x25_Shielded
 D Generic shielded connector, single row, 01x25, script generated (kicad-library-utils/schlib/autogen/connector/)
-K connector
-F ~
-$ENDCMP
-#
-$CMP Conn_01x26_Female_Shielded
-D Generic shielded connector, single row, 01x26,
 K connector
 F ~
 $ENDCMP
@@ -248,18 +236,6 @@ $ENDCMP
 #
 $CMP Conn_01x40_Shielded
 D Generic shielded connector, single row, 01x40, script generated (kicad-library-utils/schlib/autogen/connector/)
-K connector
-F ~
-$ENDCMP
-#
-$CMP Conn_01x44_Shielded
-D Generic shielded connector, single row, 01x44, manual generated
-K connector
-F ~
-$ENDCMP
-#
-$CMP Conn_01x6_Female_Shielded
-D Generic shielded connector, single row, 01x26,
 K connector
 F ~
 $ENDCMP

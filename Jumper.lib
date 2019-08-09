@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.4
+EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
 # Jumper_2_Bridged
@@ -208,7 +208,7 @@ P 2 0 1 0 0 -50 0 -40 N
 P 2 0 1 0 40 40 40 -40 N
 P 2 0 1 0 100 0 80 0 N
 X A 1 -200 0 100 R 50 50 1 1 P
-X C 2 0 -150 100 U 50 50 1 1 P
+X C 2 0 -150 100 U 50 50 1 1 I
 X B 3 200 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
