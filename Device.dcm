@@ -2262,6 +2262,54 @@ K spark gap ESD electrostatic suppression
 F ~
 $ENDCMP
 #
+$CMP Shield_10x
+D Shield for 10 wires (dist=2.54mm)
+K Shield
+F ~
+$ENDCMP
+#
+$CMP Shield_2x
+D Shield for 2 wires (dist=2.54mm)
+K Shield
+F ~
+$ENDCMP
+#
+$CMP Shield_3x
+D Shield for 3 wires (dist=2.54mm)
+K Shield
+F ~
+$ENDCMP
+#
+$CMP Shield_5x
+D Shield for 5 wires (dist=2.54mm)
+K Shield
+F ~
+$ENDCMP
+#
+$CMP Shield_6x
+D Shield for 6 wires (dist=2.54mm)
+K Shield
+F ~
+$ENDCMP
+#
+$CMP Shield_7x
+D Shield for 7 wires (dist=2.54mm)
+K Shield
+F ~
+$ENDCMP
+#
+$CMP Shield_8x
+D Shield for 8 wires (dist=2.54mm)
+K Shield
+F ~
+$ENDCMP
+#
+$CMP Shield_8x_5.08mm
+D Shield for 8 wires (dist=5.08mm)
+K Shield
+F ~
+$ENDCMP
+#
 $CMP Solar_Cell
 D Single solar cell
 K solar cell

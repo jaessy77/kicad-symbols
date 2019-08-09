@@ -960,6 +960,24 @@ K male D-SUB connector
 F  ~
 $ENDCMP
 #
+$CMP DB26_Female_HighDensity_Shielded
+D 26-pin male D-SUB connector, High density (3 columns), Triple Row,
+K connector male D-SUB
+F  ~
+$ENDCMP
+#
+$CMP DB26_Male_HighDensity
+D 44-pin male D-SUB connector, High density (3 columns), Triple Row,
+K connector male D-SUB
+F  ~
+$ENDCMP
+#
+$CMP DB26_Male_HighDensity_Shielded
+D 26-pin male D-SUB connector, High density (3 columns), Triple Row,
+K connector male D-SUB
+F  ~
+$ENDCMP
+#
 $CMP DB37_Female
 D 37-pin female D-SUB connector
 K female D-SUB connector
@@ -981,6 +999,18 @@ $ENDCMP
 $CMP DB37_Male_MountingHoles
 D 37-pin male D-SUB connector, Mounting Hole
 K male D-SUB connector
+F  ~
+$ENDCMP
+#
+$CMP DB44_Male_HighDensity
+D 44-pin male D-SUB connector, High density (3 columns), Triple Row,
+K connector male D-SUB
+F  ~
+$ENDCMP
+#
+$CMP DB44_Male_HighDensity_Shielded
+D 44-pin male D-SUB connector, High density (3 columns), Triple Row,
+K connector male D-SUB
 F  ~
 $ENDCMP
 #

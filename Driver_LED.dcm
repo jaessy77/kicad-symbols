@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AL5802
+D https://www.diodes.com/assets/Datasheets/AL5802.pdf
+K Driver LED
+$ENDCMP
+#
 $CMP CL220K4-G
 D Temperature Compensated Constant Current LED IC, D-PAK
 K Constant Current LED Driver IC

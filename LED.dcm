@@ -288,6 +288,24 @@ K opto IR LED
 F http://www.vishay.com/docs/81006/tsal4400.pdf
 $ENDCMP
 #
+$CMP WL-SWTP_3014
+D WL-SWTP SMD White Top view PLCC LED
+K WL-SWTP, SMD, White Top view,PLCC, LED
+F https://katalog.we-online.de/de/led/WL-SWTP
+$ENDCMP
+#
+$CMP WL-SWTP_3022
+D WL-SWTP SMD White Top view PLCC LED
+K WL-SWTP, SMD, White Top view, PLCC, LED
+F https://katalog.we-online.de/de/led/WL-SWTP
+$ENDCMP
+#
+$CMP WL-SWTP_5630
+D WL-SWTP SMD White Top view PLCC LED
+K WL-SWTP, SMD, White Top view, PLCC, LED
+F https://katalog.we-online.de/de/led/WL-SWTP
+$ENDCMP
+#
 $CMP WS2812
 D RGB LED with integrated controller
 K RGB LED NeoPixel addressable
