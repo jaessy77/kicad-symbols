@@ -198,6 +198,72 @@ K led diode
 F http://www.cree.com/%7E/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf
 $ENDCMP
 #
+$CMP LED_USHIO_L
+D UV-LED USHIO L-family (5mm molded type)
+K UV-LED, USHIO, L-family, 5mm ,molded type
+F https://www.ushio-optosemi.com/en/products/led/std/standard/mold_type.html
+$ENDCMP
+#
+$CMP LED_USHIO_L375R-03
+D UV-LED USHIO L-family (5mm molded type) 375nm +/10deg
+K UV-LED, USHIO, L-family, 5mm ,molded type, 375nm, +/10deg
+F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/lpm/L375R-03.pdf
+$ENDCMP
+#
+$CMP LED_USHIO_L375R-04
+D UV-LED USHIO L-family (5mm molded type) 375nm +/17deg
+K UV-LED, USHIO, L-family, 5mm ,molded type, 375nm, +/17deg
+F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/lpm/L375R-04.pdf
+$ENDCMP
+#
+$CMP LED_USHIO_L385R-03
+D UV-LED USHIO L-family (5mm molded type) 385nm +/10deg
+K UV-LED, USHIO, L-family, 5mm ,molded type, 385nm, +/10deg
+F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/lpm/L385R-03.pdf
+$ENDCMP
+#
+$CMP LED_USHIO_L385R-04
+D UV-LED USHIO L-family (5mm molded type) 385nm +/17deg
+K UV-LED, USHIO, L-family, 5mm ,molded type, 385nm, +/17deg
+F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/lpm/L385R-04.pdf
+$ENDCMP
+#
+$CMP LED_USHIO_L395R-03
+D UV-LED USHIO L-family (5mm molded type) 395nm +/10deg
+K UV-LED, USHIO, L-family, 5mm ,molded type, 395nm, +/10deg
+F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/lpm/L395R-03.pdf
+$ENDCMP
+#
+$CMP LED_USHIO_L395R-04
+D UV-LED USHIO L-family (5mm molded type) 395nm +/17deg
+K UV-LED, USHIO, L-family, 5mm ,molded type, 395nm, +/17deg
+F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/lpm/L395R-03.pdf
+$ENDCMP
+#
+$CMP LED_USHIO_SMT
+D UV-LED USHIO SMT-family
+K UV-LED, USHIO, SMT family
+F https://www.ushio-optosemi.com/en/products/led/std/multi/smt_family.html
+$ENDCMP
+#
+$CMP LED_USHIO_SMT375R
+D UV-LED USHIO SMT-family 375nm +/-62deg flat type
+K UV-LED, USHIO, SMT family, 375nm, +/-62deg, flat type
+F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/smt/SMT375R.pdf
+$ENDCMP
+#
+$CMP LED_USHIO_SMT385R
+D UV-LED USHIO SMT-family 385nm +/-62deg flat type
+K UV-LED, USHIO, SMT family, 385nm, +/-62deg, flat type
+F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/smt/SMT385R.pdf
+$ENDCMP
+#
+$CMP LED_USHIO_SMT395R
+D UV-LED USHIO SMT-family 395nm +/-62deg flat type
+K UV-LED, USHIO, SMT family, 395nm +/-62deg flat type
+F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/smt/SMT395R.pdf
+$ENDCMP
+#
 $CMP NeoPixel_THT
 D RGB LED with integrated controller, 5mm/8mm LED package
 K RGB LED NeoPixel addressable
