@@ -1,8 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP AL5802
-D https://www.diodes.com/assets/Datasheets/AL5802.pdf
-K Driver LED
+D 30V, adjustable current sink linear led driver
+K 30V, adjustable, current sink, linear, led driver
+F https://www.diodes.com/assets/Datasheets/AL5802.pdf
 $ENDCMP
 #
 $CMP CL220K4-G
