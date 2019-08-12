@@ -303,7 +303,7 @@ $ENDCMP
 $CMP WL-SWTP_5630
 D WL-SWTP SMD White Top view PLCC LED
 K WL-SWTP, SMD, White Top view, PLCC, LED
-F https://katalog.we-online.de/de/led/WL-SWTP
+F https://katalog.we-online.de/de/led/WL-SWTP#vs_t1:2_ct:3
 $ENDCMP
 #
 $CMP WS2812
