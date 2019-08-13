@@ -240,6 +240,30 @@ K UV-LED, USHIO, L-family, 5mm ,molded type, 395nm, +/17deg
 F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/lpm/L395R-03.pdf
 $ENDCMP
 #
+$CMP LED_USHIO_SMBB
+D UV-LED USHIO SMBB-family
+K UV-LED, USHIO, SMBB-family
+F https://www.ushio-optosemi.com/en/products/led/power/high/smbb_family.html
+$ENDCMP
+#
+$CMP LED_USHIO_SMBB365V-1100-Z
+D UV-LED USHIO SMBB-family 365nm +/-64deg flat type (V-Type 500mA H-Type 350mA)
+K UV-LED, USHIO, SMBB-family, 365nm, +/-64deg, flat type
+F https://www.ushio-optosemi.com/jp/products/led/power/pdfs/smbb/SMBB365H-1100-Z.pdf
+$ENDCMP
+#
+$CMP LED_USHIO_SMBB385V-1100-Z
+D UV-LED USHIO SMBB-family 385nm +/-64deg flat type (V-Type 500mA H-Type 350mA)
+K UV-LED, USHIO, SMBB-family, 385nm, +/-64deg, flat type
+F https://www.ushio-optosemi.com/jp/products/led/power/pdfs/smbb/SMBB385V-1100-Z.pdf
+$ENDCMP
+#
+$CMP LED_USHIO_SMBB395H-1100-Z
+D UV-LED USHIO SMBB-family 395nm +/-64deg flat type (V-Type 500mA H-Type 350mA)
+K UV-LED, USHIO, SMBB-family, 395nm, +/-64deg, flat type
+F https://www.ushio-optosemi.com/jp/products/led/power/pdfs/smbb/SMBB395H-1100-Z.pdf
+$ENDCMP
+#
 $CMP LED_USHIO_SMT
 D UV-LED USHIO SMT-family
 K UV-LED, USHIO, SMT family
