@@ -1512,6 +1512,24 @@ K connector SD
 F http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf
 $ENDCMP
 #
+$CMP SEAF-30-01-L-08-1-RA-GP-TR
+D SEAF-RA 050" 1.27mm 08x30  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle
+K SEAF-RA
+F http://suddendocs.samtec.com/prints/seaf-xx-xx-x-xx-x-ra-xx-tr-mkt.pdf
+$ENDCMP
+#
+$CMP SEAF-40-01-L-10-1-RA-GP-TR
+D SEAF-RA 050" 1.27mm 10x40  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle
+K SEAF-RA
+F http://suddendocs.samtec.com/prints/seaf-xx-xx-x-xx-x-ra-xx-tr-mkt.pdf
+$ENDCMP
+#
+$CMP SEAF-50-01-L-08-1-RA-GP-TR
+D SEAF-RA 050" 1.27mm 08x50  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle
+K SEAF-RA
+F http://suddendocs.samtec.com/prints/seaf-xx-xx-x-xx-x-ra-xx-tr-mkt.pdf
+$ENDCMP
+#
 $CMP SIM_Card
 D SIM Card
 K SIM card UICC
