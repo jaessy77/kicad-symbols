@@ -1513,21 +1513,75 @@ F http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf
 $ENDCMP
 #
 $CMP SEAF-30-01-L-08-1-RA-GP-TR
-D SEAF-RA 050" 1.27mm 08x30  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle
+D SEAF-RA 050" 1.27mm 08x30  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, horizontal, female
 K SEAF-RA
 F http://suddendocs.samtec.com/prints/seaf-xx-xx-x-xx-x-ra-xx-tr-mkt.pdf
+$ENDCMP
+#
+$CMP SEAF-30-05.0-L-08-1-A-K-TR
+D SEAF-A 050" 1.27mm 08x30  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Straight, vertical, female
+K SEAF-A
+F http://suddendocs.samtec.com/prints/seaf-xx-xx-x-xx-x-a-xx-tr-mkt.pdf
 $ENDCMP
 #
 $CMP SEAF-40-01-L-10-1-RA-GP-TR
-D SEAF-RA 050" 1.27mm 10x40  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle
+D SEAF-RA 050" 1.27mm 10x40  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, vertical, female
 K SEAF-RA
 F http://suddendocs.samtec.com/prints/seaf-xx-xx-x-xx-x-ra-xx-tr-mkt.pdf
 $ENDCMP
 #
+$CMP SEAF-40-05.0-L-10-1-A-K-TR
+D SEAF-A 050" 1.27mm 10x40  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, horzontal, female
+K SEAF-A
+F http://suddendocs.samtec.com/prints/seaf-xx-xx-x-xx-x-a-xx-tr-mkt.pdf
+$ENDCMP
+#
 $CMP SEAF-50-01-L-08-1-RA-GP-TR
-D SEAF-RA 050" 1.27mm 08x50  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle
+D SEAF-RA 050" 1.27mm 08x50  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, horizontal, female
 K SEAF-RA
 F http://suddendocs.samtec.com/prints/seaf-xx-xx-x-xx-x-ra-xx-tr-mkt.pdf
+$ENDCMP
+#
+$CMP SEAF-50-05.0-L-08-1-A-K-TR
+D SEAF-A 050" 1.27mm 08x50  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, vertical, female
+K SEAF-A
+F http://suddendocs.samtec.com/prints/seaf-xx-xx-x-xx-x-a-xx-tr-mkt.pdf
+$ENDCMP
+#
+$CMP SEAM-30-01-L-08-1-RA-GP-TR
+D SEAM-RA 050" 1.27mm 08x30  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, horizontal, male
+K SEAM-RA
+F http://suddendocs.samtec.com/prints/seam-xx-xx-x-xx-x-ra-xx-tr-mkt.pdf
+$ENDCMP
+#
+$CMP SEAM-30-02.0-L-08-1-A-GP-K-TR
+D SEAM-RA 050" 1.27mm 08x30  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, horizontal, male
+K SEAM-RA
+F http://suddendocs.samtec.com/prints/seam-xx-xx-x-xx-x-ra-xx-tr-mkt.pdf
+$ENDCMP
+#
+$CMP SEAM-40-01-L-10-1-RA-GP-TR
+D SEAM-RA 050" 1.27mm 10x40  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, horizontal, male
+K SEAM-RA
+F http://suddendocs.samtec.com/prints/seam-xx-xx-x-xx-x-ra-xx-tr-mkt.pdf
+$ENDCMP
+#
+$CMP SEAM-40-02.0-L-10-1-A-GP-K-TR
+D SEAM-A 050" 1.27mm 10x40  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, vertical, male
+K SEAM-A
+F http://suddendocs.samtec.com/prints/seam-xx-xx-x-xx-x-a-xx-tr-mkt.pdf
+$ENDCMP
+#
+$CMP SEAM-50-01-L-08-1-RA-GP-TR
+D SEAM-RA 050" 1.27mm 08x50  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, horizontal, male
+K SEAM-RA
+F http://suddendocs.samtec.com/prints/seam-xx-xx-x-xx-x-ra-xx-tr-mkt.pdf
+$ENDCMP
+#
+$CMP SEAM-50-02.0-L-08-1-A-GP-K-TR
+D SEAM-A 050" 1.27mm 08x50  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, vertical, male
+K SEAM-A
+F http://suddendocs.samtec.com/prints/seam-xx-xx-x-xx-x-a-xx-tr-mkt.pdf
 $ENDCMP
 #
 $CMP SIM_Card
