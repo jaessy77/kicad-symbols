@@ -1560,6 +1560,12 @@ K SEAM-RA
 F http://suddendocs.samtec.com/prints/seam-xx-xx-x-xx-x-ra-xx-tr-mkt.pdf
 $ENDCMP
 #
+$CMP SEAM-30-02.0-L-08-1-A-K-TR
+D SEAM-RA 050" 1.27mm 08x30  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, horizontal, male
+K SEAM-RA
+F http://suddendocs.samtec.com/prints/seam-xx-xx-x-xx-x-ra-xx-tr-mkt.pdf
+$ENDCMP
+#
 $CMP SEAM-40-01-L-10-1-RA-GP-TR
 D SEAM-RA 050" 1.27mm 10x40  SEARAY™ High-Speed High-Density Open-Pin-Field Array Socket, Right-Angle, horizontal, male
 K SEAM-RA

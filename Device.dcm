@@ -1128,6 +1128,18 @@ K microphone ultrasound crystal
 F ~
 $ENDCMP
 #
+$CMP Net-Tie_10
+D Net tie, 10 pins
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_10_opt
+D Net tie, 10 pins, 1-to-9
+K net tie short
+F ~
+$ENDCMP
+#
 $CMP Net-Tie_2
 D Net tie, 2 pins
 K net tie short
@@ -1146,6 +1158,12 @@ K net tie short
 F ~
 $ENDCMP
 #
+$CMP Net-Tie_3_opt
+D Net tie, 3 pins, 1-to-2
+K net tie short
+F ~
+$ENDCMP
+#
 $CMP Net-Tie_4
 D Net tie, 4 pins
 K net tie short
@@ -1154,6 +1172,72 @@ $ENDCMP
 #
 $CMP Net-Tie_4_Cross
 D Net tie, 4 pins, cross
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_4_opt
+D Net tie, 4 pins, 1-to-3
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_5
+D Net tie, 5 pins
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_5_opt
+D Net tie, 5 pins, 1-to-4
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_6
+D Net tie, 6 pins
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_6_opt
+D Net tie, 6 pins, 1-to-5
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_7
+D Net tie, 7 pins
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_7_opt
+D Net tie, 7 pins, 1-to-6
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_8
+D Net tie, 8 pins
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_8_opt
+D Net tie, 8 pins, 1-to-7
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_9
+D Net tie, 9 pins
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_9_opt
+D Net tie, 9 pins, 1-to-8
 K net tie short
 F ~
 $ENDCMP
