@@ -1170,6 +1170,108 @@ K LEMO connector
 F  ~
 $ENDCMP
 #
+$CMP MOLEX_SlimStack_52885-0274
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-0374
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-0474
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-0574
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-0674
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-0774
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-0874
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-0974
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-1074
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-1274
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-1474
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-1674
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-1874
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width, 180 Circuits
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-2074
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width, 200 Circuits
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_52885-2474
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Receptacle, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width, 240 Circuits
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_55091-0274
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Plug, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
+$CMP MOLEX_SlimStack_55091-0374
+D SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Plug, 6.00 to 10.00mm Mated Height, 6.40mm Mated Width
+K Molex, SlimStack, Board-to-Board
+F http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-8807.pdf
+$ENDCMP
+#
 $CMP MXM3.0
 D MXM3.0 connector
 K MXM connector
