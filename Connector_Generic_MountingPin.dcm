@@ -36,6 +36,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP Conn_01x06_MountingPin_Female
+D Generic connectable mounting pin connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 $CMP Conn_01x07_MountingPin
 D Generic connectable mounting pin connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
@@ -1424,6 +1430,18 @@ $ENDCMP
 #
 $CMP Conn_02x40_Top_Bottom_MountingPin
 D Generic connectable mounting pin connector, double row, 02x40, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_02x50_Odd_Even_MountingPin_Female
+D Generic connectable mounting pin connector, double row, female, 02x50, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_02x50_Odd_Even_MountingPin_Male
+D Generic connectable mounting pin connector, double row, male, 02x50, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
 F ~
 $ENDCMP
