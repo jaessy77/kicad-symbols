@@ -48,6 +48,12 @@ K Driver MOSFET
 F https://www.onsemi.com/pub/Collateral/FAN3278-D.pdf
 $ENDCMP
 #
+$CMP FAN5333
+D High Efficiency, High Current Serial LED Driver with 30V, Integrated Switch
+K Driver LED
+F https://cdn-shop.adafruit.com/datasheets/FAN5333.pdf
+$ENDCMP
+#
 $CMP FAN7371
 D High-Current High-Side Gate Driver, 600V Vs, 4A Io, SOIC-8
 K high-side gate driver
