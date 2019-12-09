@@ -6,6 +6,18 @@ K 30V, adjustable, current sink, linear, led driver
 F https://www.diodes.com/assets/Datasheets/AL5802.pdf
 $ENDCMP
 #
+$CMP CAT4104-V
+D 700 mA Quad Channel Constant Current LED Driver, 4 Matched LED Current Sinks up to 175 mA, Up to 25V
+K Constant, Current, LED, Driver
+F https://www.onsemi.com/pub/Collateral/CAT4104-D.PDF
+$ENDCMP
+#
+$CMP CAT4104-VP2
+D 700 mA Quad Channel Constant Current LED Driver, 4 Matched LED Current Sinks up to 175 mA, Up to 25V
+K Constant, Current, LED, Driver
+F https://www.onsemi.com/pub/Collateral/CAT4104-D.PDF
+$ENDCMP
+#
 $CMP CL220K4-G
 D Temperature Compensated Constant Current LED IC, D-PAK
 K Constant Current LED Driver IC
