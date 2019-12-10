@@ -108,6 +108,12 @@ K LiPO charger
 F http://www.ti.com/lit/ds/symlink/bq25601.pdf
 $ENDCMP
 #
+$CMP BQ25713
+D I2C Narrow VDC Buck-Boost Battery Charge Controller With System Power Monitor and Processor ot Monitor
+K BQ Battery NVDC VDC Charge
+F http://www.ti.com/lit/ds/symlink/bq25713.pdf
+$ENDCMP
+#
 $CMP BQ25895RTW
 D Controlled Single Cell 5A Fast Charger with MaxCharge, WQFN-24
 K Battery Charger and Power Path Management
