@@ -588,6 +588,12 @@ K dual schottky diode
 F https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf
 $ENDCMP
 #
+$CMP BAT54L
+D Schottky barrier diode, SOT-23
+K schottky diode
+F https://www.mouser.de/datasheet/2/308/BAT54LT1-D-104526.pdf
+$ENDCMP
+#
 $CMP BAT54S
 D schottky barrier diode
 K schottky diode
