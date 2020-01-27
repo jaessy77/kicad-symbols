@@ -108,6 +108,11 @@ K USB-Serial single channel bridge
 F http://www.cypress.com/file/129956/download
 $ENDCMP
 #
+$CMP FE1.1s
+D USB 2.0 High Speed 4-Port Hub Controller
+K USB 2.0 Hub 4-Port
+$ENDCMP
+#
 $CMP FT200XD
 D Full Speed USB to I2C Bridge, DFN-10
 K FTDI USB I2C Interface Converter
