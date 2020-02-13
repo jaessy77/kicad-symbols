@@ -1938,6 +1938,12 @@ K connector USB
 F  ~
 $ENDCMP
 #
+$CMP USB_A_2Ports
+D USB Type A connector 2 Ports
+K connector USB 2 Ports
+F  ~
+$ENDCMP
+#
 $CMP USB_B
 D USB Type B connector
 K connector USB
