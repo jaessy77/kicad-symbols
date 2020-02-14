@@ -6,6 +6,12 @@ K 3-axis accelerometer i2c spi mems
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf
 $ENDCMP
 #
+$CMP ADXL344
+D 3-Axis MEMS Accelerometer
+K ADXL Accelerometer 3-Axis
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL344.pdf
+$ENDCMP
+#
 $CMP BMF055
 D Custom programmable 9-axis motion sensor
 K 9-axis motion sensor IMU SAMD20 ARM Cortex-M0+

@@ -180,6 +180,12 @@ K led matrix pwm
 F http://www.issi.com/WW/pdf/31FL3737.pdf
 $ENDCMP
 #
+$CMP IS31FL3743A
+D 18x11 Dots Matrix LED Driver
+K ISSI 18x11 LED Driver
+F http://ams.issi.com/WW/pdf/IS31FL3743A.pdf
+$ENDCMP
+#
 $CMP IS31LT3360
 D Constant current  LED driver, internal switch, up to 40V/1.2A, SOT-89-5
 K Switching LED driver
