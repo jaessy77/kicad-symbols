@@ -162,6 +162,12 @@ K H-Bridge DC stepper servo motor driver Motion Control Applications
 F http://www.ti.com/lit/ds/symlink/lmd18200.pdf
 $ENDCMP
 #
+$CMP MAX6615
+D Dual-Channel Temerature Monitors and Fan-Speed Controllers with Thermistor Inputs
+K Fan Controller Thermistor MAXIM MAX6615 6615
+F https://datasheets.maximintegrated.com/en/ds/MAX6615-MAX6616.pdf
+$ENDCMP
+#
 $CMP PG001M
 D Parallel to serial data converter for SLA7042M/SLA7044M
 K Support IC for SLA7042M/SLA7044M
