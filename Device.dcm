@@ -1290,6 +1290,12 @@ K oscilloscope
 F ~
 $ENDCMP
 #
+$CMP PUMH4
+D NPN/NPN resistor-equipped transistors; R1 = 10 kΩ, R2 = open
+K PEMH4 PUMH4 NPN Dual
+F https://assets.nexperia.com/documents/data-sheet/PEMH4_PUMH4.pdf
+$ENDCMP
+#
 $CMP Peltier_Element
 D Peltier element, thermoelectric cooler
 K Peltier TEC
