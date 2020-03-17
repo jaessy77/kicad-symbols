@@ -459,6 +459,12 @@ K Bidirectional 1-MHz I2C SMBus Voltage-Level Translator 8kV HBM ESD
 F www.ti.com/lit/ds/symlink/tca9406.pdf
 $ENDCMP
 #
+$CMP TCA9617A
+D Level-Translating FM+ I2C Bus Repeater
+K I2C Level Shifter Repeater TCA9617A
+F http://www.ti.com/lit/ds/symlink/tca9617a.pdf
+$ENDCMP
+#
 $CMP TCA9800
 D Level-Translating I2C Bus Buffer/Repeater 0.54mA Current Source, VSSOP-8
 K I2C buffer repeater
