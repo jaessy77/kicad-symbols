@@ -180,6 +180,12 @@ K IR LED
 F http://pdf.datasheetcatalog.com/datasheet/siemens/LD274.pdf
 $ENDCMP
 #
+$CMP LED_Cree_ThermalPad
+D LED CREE XPC SMT
+K LED CREE XPC SMT
+F https://www.cree.com/led-components/media/documents/XLampXPC.pdf
+$ENDCMP
+#
 $CMP LED_Cree_XHP50_12V
 D XLamp® XHP50 LED, 12V footprint (all 4 LEDs in series)
 K led diode
@@ -294,13 +300,31 @@ K UV-LED, USHIO, SMT family, 375nm, +/-62deg, flat type
 F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/smt/SMT375R.pdf
 $ENDCMP
 #
+$CMP LED_USHIO_SMT375R_copy
+D UV-LED USHIO SMT-family 375nm +/-62deg flat type
+K UV-LED, USHIO, SMT family, 375nm, +/-62deg, flat type
+F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/smt/SMT375R.pdf
+$ENDCMP
+#
 $CMP LED_USHIO_SMT385R
 D UV-LED USHIO SMT-family 385nm +/-62deg flat type
 K UV-LED, USHIO, SMT family, 385nm, +/-62deg, flat type
 F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/smt/SMT385R.pdf
 $ENDCMP
 #
+$CMP LED_USHIO_SMT385R_copy
+D UV-LED USHIO SMT-family 385nm +/-62deg flat type
+K UV-LED, USHIO, SMT family, 385nm, +/-62deg, flat type
+F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/smt/SMT385R.pdf
+$ENDCMP
+#
 $CMP LED_USHIO_SMT395R
+D UV-LED USHIO SMT-family 395nm +/-62deg flat type
+K UV-LED, USHIO, SMT family, 395nm +/-62deg flat type
+F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/smt/SMT395R.pdf
+$ENDCMP
+#
+$CMP LED_USHIO_SMT395R_copy
 D UV-LED USHIO SMT-family 395nm +/-62deg flat type
 K UV-LED, USHIO, SMT family, 395nm +/-62deg flat type
 F https://www.ushio-optosemi.com/jp/products/led/std/pdfs/smt/SMT395R.pdf
