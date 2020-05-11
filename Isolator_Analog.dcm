@@ -36,6 +36,12 @@ K Optycally Isolated Voltage Sensor
 F www.avagotech.com/docs/AV02-3563EN
 $ENDCMP
 #
+$CMP AMC1311
+D High-Impedance, 2-V Input, Reinforced Isolated Amplifier
+K Isolated Amplifier Differential AMC
+F http://www.ti.com/lit/ds/symlink/amc1311.pdf?ts=1588676766623
+$ENDCMP
+#
 $CMP IL300
 D Isolated Linear Photocoupler, High Gain, Wideband, DIP8/SMD-DIP8
 K Isolated Linear Photocoupler
