@@ -12,4 +12,10 @@ K fiber optic receiver
 F https://docs.broadcom.com/docs/AV02-4369EN
 $ENDCMP
 #
+$CMP OPF693
+D Fiber optic transmitter, 850nm LED, ST style receptacle
+K Fibre Optic, 850nm, ST
+F https://www.ttelectronics.com/TTElectronics/media/ProductFiles/Optoelectronics/Datasheets/OPF693.pdf
+$ENDCMP
+#
 #End Doc Library

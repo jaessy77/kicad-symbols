@@ -384,6 +384,12 @@ K I2C DAC 12-bit
 F http://www.ti.com/lit/ds/symlink/dac121c081.pdf
 $ENDCMP
 #
+$CMP DAC60504
+D Quad-Channel, 12-bit DAC with SPI-Compatible Interface with internal reference
+K DAC SPI Quad 12-bit
+F http://www.ti.com/lit/ds/symlink/dac60504.pdf?ts=1588685861153
+$ENDCMP
+#
 $CMP DAC7513_DCN
 D Low-Power, Rail-to-Rail Output, 12-Bit Serial Input DAC
 K TI DAC 12 bit

@@ -165,6 +165,12 @@ K LVDS Driver
 F http://www.ti.com/lit/ds/symlink/ds90lv011a.pdf
 $ENDCMP
 #
+$CMP DS90LV012A
+D LVDS Single CMOS Differential Receiver, 400Mbps, SOT-23-5
+K LVDS Driver
+F http://www.ti.com/lit/ds/symlink/ds90lv011a.pdf
+$ENDCMP
+#
 $CMP DS90LV027A
 D LVDS Dual High Speed Differential Driver, >600MBps, SOIC-8
 K Dual LVDS Driver
@@ -388,6 +394,12 @@ F http://www.ti.com/lit/ds/symlink/sn65lvds047.pdf
 $ENDCMP
 #
 $CMP SN65LVDS1DBV
+D High-Speed Differential Line Driver, 630Mbps, SOT-23-5
+K LVDS Driver
+F http://www.ti.com/lit/ds/symlink/sn65lvds1.pdf
+$ENDCMP
+#
+$CMP SN65LVDS1DBV_copy
 D High-Speed Differential Line Driver, 630Mbps, SOT-23-5
 K LVDS Driver
 F http://www.ti.com/lit/ds/symlink/sn65lvds1.pdf

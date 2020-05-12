@@ -360,6 +360,12 @@ K CMOS Synth Oscillator I2C
 F https://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf
 $ENDCMP
 #
+$CMP Si5351A-B-GM1
+D I2C Programmable Any-Frequency CMOS Clock Generator, QFN-16
+K CMOS Synth Oscillator I2C
+F https://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf
+$ENDCMP
+#
 $CMP Si5351A-B-GT
 D I2C Programmable Any-Frequency CMOS Clock Generator, MSOP-8
 K CMOS Synth Oscillator I2C

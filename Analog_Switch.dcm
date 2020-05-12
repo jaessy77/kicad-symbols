@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74LVC4066
+D Quad bilateral switch (Rds_on 6 Ohm @ Vcc 5V)
+K Quad analog switch
+F https://www.mouser.de/datasheet/2/916/74LVC4066-1600548.pdf
+$ENDCMP
+#
 $CMP ADG1414BRU
 D ±15V, +12V, ±5V, 9.5 Ohm on resistance, iCMOS Serially-Controlled Octal SPST Switches, TSSOP-24
 K SPI SPST Analog Switches

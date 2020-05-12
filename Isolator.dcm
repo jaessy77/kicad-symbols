@@ -312,6 +312,12 @@ K NPN DC Optocoupler
 F http://www.everlight.com/file/ProductFile/EL817.pdf
 $ENDCMP
 #
+$CMP EL817_copy
+D DC Optocoupler, Vce 35V, DIP-4
+K NPN DC Optocoupler
+F http://www.everlight.com/file/ProductFile/EL817.pdf
+$ENDCMP
+#
 $CMP H11AA1
 D AC/DC NPN Optocoupler, DIP-6
 K NPN AC DC Optocoupler
@@ -741,6 +747,12 @@ $ENDCMP
 $CMP PC847
 D DC Quad Optocoupler, Vce 35V, CTR 50-300%, DIP16
 K NPN DC Quad Optocoupler
+F http://www.soselectronic.cz/a_info/resource/d/pc817.pdf
+$ENDCMP
+#
+$CMP PS2702-1
+D DC Optocoupler, Vce 40V, Ic 200mA, CTR 2000% (typ), SOP-4
+K NPN DC Optocoupler
 F http://www.soselectronic.cz/a_info/resource/d/pc817.pdf
 $ENDCMP
 #
