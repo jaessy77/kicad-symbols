@@ -1008,6 +1008,18 @@ K Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-320
 F http://www.vishay.com/docs/83675/sfh620a.pdf
 $ENDCMP
 #
+$CMP Si8420
+D Dual-channel digital isolator,2.7 to 5.5V, 150Mbs, 2.5kV
+K Dual-channel digital isolator
+F https://www.mouser.de/datasheet/2/368/Si8410-1635226.pdf
+$ENDCMP
+#
+$CMP Si8421
+D Dual-channel digital isolator,2.7 to 5.5V, 150Mbs, 2.5kV
+K Dual-channel digital isolator
+F https://www.mouser.de/datasheet/2/368/Si8410-1635226.pdf
+$ENDCMP
+#
 $CMP Si8640BA-B-IU
 D Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 1.0kV isolation, Fail-Safe Low, QSOP-16
 K 4Ch 4In Quad Digital Isolator 150Mbps
