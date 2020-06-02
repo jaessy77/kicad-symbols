@@ -3972,6 +3972,12 @@ K negative voltage regulator
 F https://www.analog.com/media/en/technical-documentation/data-sheets/3015fb.pdf
 $ENDCMP
 #
+$CMP LT3030
+D Dual 750mA/250mA Low Dropout, Low Noise, Micropower Linear Regulator
+K LT3030
+F https://www.mouser.de/datasheet/2/609/3030fa-1271285.pdf
+$ENDCMP
+#
 $CMP LT3032
 D 150mA, Dual Low Dropout Linear Regulator, Positive/Negative Low Noise, Adjustable Output, DFN-14
 K LDO low noise
@@ -5416,6 +5422,12 @@ $CMP NCP1117-ADJ_TO252
 D 1A Low drop-out regulator, Adjustable Output 1.25 - 18.8V, TO-252 (DPAK)
 K REGULATOR LDO ADJUSTABLE
 F http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+$CMP NCP115ASN120T2G
+D 300mA, Low drop-out regulator, Fixed Output 1.2V, TSOP-5
+K LDO 1.2V
+F https://www.mouser.de/datasheet/2/308/NCP115-D-1509438.pdf
 $ENDCMP
 #
 $CMP NCP133AMX100TCG

@@ -2286,6 +2286,24 @@ K dc-dc murata Step-Down DC/DC-Regulator
 F https://power.murata.com/data/power/oki-78sr.pdf
 $ENDCMP
 #
+$CMP RB-243.3S
+D 303mA, Isolated DC/DC, 1W, input voltage 24V, output voltage 3.3V
+K DC/DC Isolated 1W 3.3V
+F https://www.mouser.de/datasheet/2/468/RB-1714209.pdf
+$ENDCMP
+#
+$CMP RFM-0505S
+D 200mA, Isolated DC/DC, 1W, input voltage 5V, output voltage 5V
+K DC/DC Isolated 1W 5V
+F https://www.mouser.de/datasheet/2/468/RFM-1710978.pdf
+$ENDCMP
+#
+$CMP ROE-2405S
+D 200mA, Isolated DC/DC, 1W, input voltage 24V, output voltage 5V
+K DC/DC Isolated 1W 5V
+F https://www.mouser.de/datasheet/2/468/ROE-1711022.pdf
+$ENDCMP
+#
 $CMP RPM3.3-1.0
 D 1A non-isolated switching regulator power module, 3-17V input voltage, 3.3V output voltage, DOSA
 K Recom dc-dc converter
@@ -2332,6 +2350,12 @@ $CMP RPM5.0-6.0
 D 6A non-isolated switching regulator power module, 4-15V input voltage, 5.0V output voltage, DOSA
 K Recom dc-dc converter
 F https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf
+$ENDCMP
+#
+$CMP RS6-243.3S
+D DC/DC converter with 1.6kV isolation, 18-36V input, 3.3V fixed output, 6W
+K DC/DC DCDC isolated RS6 3V3 24V
+F https://recom-power.com/pdf/Econoline/RS6.pdf
 $ENDCMP
 #
 $CMP TC7662AxPA
