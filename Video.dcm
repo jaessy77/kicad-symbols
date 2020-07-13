@@ -24,6 +24,12 @@ K CCD Signal Processor
 F https://www.analog.com/static/imported-files/data_sheets/AD9891_9895.pdf
 $ENDCMP
 #
+$CMP AD9984AKST
+D High Performance 10-Bit Display Interface 140/170MSPS LQFP
+K 10bit video display interface
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD9984A.pdf
+$ENDCMP
+#
 $CMP AV9173
 D Video Genlock PLL
 K video pll
@@ -95,10 +101,17 @@ K Video switching circuite for TV
 F http://pdf1.alldatasheet.com/datasheet-pdf/view/123244/STMICROELECTRONICS/TEA2014.html
 $ENDCMP
 #
+<<<<<<< HEAD
 $CMP TFP401A
 D TFP401A TI 165-MHz TMDS DVI receiver/deserializer with HSYNC & Panelbus™ integrated circuit
 K TFP401A TDMS DVI
 F http://www.ti.com/lit/ds/symlink/tfp401a.pdf
+=======
+$CMP TFP410PAP
+D Digital Visual Interface Compliant PanelBus Digital Transmitter, HTQFP-64
+K DVI Encoder Driver
+F http://www.ti.com/lit/ds/symlink/tfp410.pdf
+>>>>>>> ab93412660f4037b9d746df8c5653d9ec69e8ad3
 $ENDCMP
 #
 #End Doc Library
